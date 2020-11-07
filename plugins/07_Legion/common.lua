@@ -4,6 +4,12 @@
 
 local ADDON_NAME, ns = ...
 
+local Group = ns.Group
+
 -------------------------------------------------------------------------------
 
 ns.expansion = 7
+
+-------------------------------------------------------------------------------
+
+ns.groups.HATCHLING_OF_THE_TALON = Group('hatchling_of_the_talon', 134206, {defaults=ns.GROUP_HIDDEN})

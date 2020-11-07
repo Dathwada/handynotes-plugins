@@ -21,7 +21,6 @@ L["infernal_lord_note"] = "Klick den Höllenbestienvorrat an und töte {npc:9079
 L["inquisitor_tivos_note"] = "Verwende das Legions Portal. Er ist auf der unteren Ebene."
 
 L["disputed_treasure"] = "Umkämpfter Schatz"
-L["glimmering_treasure_chest"] = "Glitzernde Schatztruhe"
 L["seemingly_unguarded_treasure"] = "Scheinbar unbehüteter Schatz"
 L["seemingly_unguarded_treasure_note"] = "Versuche den Schatz zu plündern und töte dann ein paar Wellen von {npc:94167}."
 L["treasure_37958"] = "Im Keller des Gebäudes."
@@ -36,9 +35,87 @@ L["treasure_42339"] = "Weck die Bären nicht auf."
 L["nightwatcher_merayl_note"] = nil
 
 -------------------------------------------------------------------------------
+---------------------------------- DALARAN ------------------------------------
+-------------------------------------------------------------------------------
+
+L["sheddles_chest"] = "Gussis Truhe"
+L["shoe_shine_kit_note"] = "Die Kiste erscheint nur von Samstag auf Sonntag um Mitternacht (CET Serverzeit)"
+
+L["sir_galveston_note"] = nil
+L["amalia_note"] = nil
+L["tiffany_nelson_note"] = nil
+L["Bohdi_sunwayver_note"] = nil
+
+-------------------------------------------------------------------------------
+-------------------------------- HIGHMOUNTAIN ---------------------------------
+-------------------------------------------------------------------------------
+
+L["odrogg_note"] = nil
+L["grixis_tinypop_note"] = nil
+L["bredda_tenderhide_note"] = nil
+
+L["hatchling_of_the_talon_note"] = nil
+L["options_icons_hatchling_of_the_talon"] = "{achievement:10774}"
+L["options_icons_hatchling_of_the_talon_desc"] = nil -- "{achievement:10774}"
+
+-------------------------------------------------------------------------------
+--------------------------------- STORMHEIM -----------------------------------
+-------------------------------------------------------------------------------
+
+L["forsaken_deathsquad"] = "Todesschwadron der Verlassenen"
+L["worgen_stalkers"] = "Worgenpirscher"
+
+L["trapper_jarrun_note"] = nil
+L["robert_craig_note"] = nil
+
+-------------------------------------------------------------------------------
+---------------------------------- SURAMAR ------------------------------------
+-------------------------------------------------------------------------------
+
+L["varenne_note"] = nil
+L["master_tamer_flummox_note"] = nil
+L["aulier_note"] = nil
+
+-------------------------------------------------------------------------------
+--------------------------------- VAL'SHARA -----------------------------------
+-------------------------------------------------------------------------------
+
+L["anthydas_note"] = "Loot the treasure chest inside the building on the second floor beneath the sink."
+L["elandris_note"] = "Während die Legion Invasions Worldquest {wq:Das Tal der Angst} aktiv ist, ist er nicht verfügbar."
+L["gathenak_note"] = "Sprich mit {npc:112472}."
+L["gorebeak_note"] = "Sprich mit {npc:92111}."
+L["jinikki_note"] = "Sprich mit {npc:93677} und töte {npc:93684}, bis der seltene Gegner erscheint."
+L["kiranys_note"] = "Klick die vibrierende arkane Falle an."
+L["mad_henryk_note"] = "Tritt in die {npc:109602}."
+L["skulvrax_note"] = "Belebe {npc:92334} wieder und folge ihr."
+L["theryssia_note"] = "Lies {npc:94194s} Namensschild auf dem Grabstein."
+L["unguarded_thistleleaf_treasure"] = "Unbewachter Distelblattschatz"
+
+L["treasure_38366"] = "Unter den Baumwurzeln."
+L["treasure_38386"] = "Auf dem Balkon im zweiten Stock."
+L["treasure_38387"] = "In einer kleinen Hütte unter dem Gasthaus. Der Eingang befindet sich hinter dem Gebäude."
+L["treasure_38391"] = "Hinter dem Baum versteckt."
+L["treasure_38943"] = "Gehe die rechte Treppe nach oben."
+L["treasure_39069"] = "Auf dem Balkon auf der zweiten Etage."
+L["treasure_39074"] = "Unter dem Baum."
+L["treasure_39080"] = "Im Keller. Du musst zuerst eine Questreihe beginnen, die mit der Quest {quest:38643} bei {npc:92688} startet, gefolgt von {quest:38644} bei {npc:92683}."
+L["treasure_39083"] = "Im Baum versteckt."
+L["in_darkpens"] = "Im Düsterpferch."
+L["treasure_39093"] = "Am Fluss unter den Wurzeln."
+
+L["grumpy_note"] = "Im oberen Stockwerk des brennenen Gebäudes."
+
+L["xorvasc_note"] = nil
+L["durian_strongfruit_note"] = nil
+
+-------------------------------------------------------------------------------
 --------------------------------- ACROSS ZONES --------------------------------
 -------------------------------------------------------------------------------
 
+L["in_house"] = "Im Haus."
+L["in_small_cottage"] = "In einer kleinen Hütte."
+
+L["glimmering_treasure_chest"] = "Glitzernde Schatztruhe"
 L["small_treasure_chest"] = "Kleine Schatztruhe"
 L["treasure_chest"] = "Schatztruhe"
 L["treasures_discovered"] = "Schätze entdeckt"
